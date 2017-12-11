@@ -4,6 +4,8 @@
 </p>
 
 ### What happened to the old project?
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/corysimmons/selectivizr2.svg)](https://greenkeeper.io/)
 [Keith Clark](https://github.com/keithclark) was eaten alive by sabre-tooth rattlesnakes or something. Who knows?
 
 Good on him for originally inventing this though. :beers:
